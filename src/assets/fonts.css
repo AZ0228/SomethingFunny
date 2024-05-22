@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Zodiak';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Zodiak'), url('./Zodiak-Regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Zodiak';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Zodiak Bold'), url('./Zodiak-Bold.otf') format('truetype');
+}

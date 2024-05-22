@@ -1,0 +1,49 @@
+button p{
+    color: var(--beige);
+}
+
+.RicePurity{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+button{
+    padding:10px 20px;
+    background-color: var(--green);
+    outline:none;
+    margin:0;
+    border:none;
+
+}
+
+.score{
+    width:80%;
+    background-color: var(--green);
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    padding:20px;
+    margin-bottom:50px;
+
+}
+
+.score h2{
+    color: var(--beige);
+    font-size:60px;
+    margin:0;
+}
+
+.score p{
+    color: var(--beige);
+    font-size:20px;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width:90%;
+}
